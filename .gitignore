@@ -3,3 +3,5 @@ secrets.py
 __pycache__/
 
 .vscode/
+
+sandbox/

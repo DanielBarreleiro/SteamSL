@@ -5,3 +5,5 @@ __pycache__/
 .vscode/
 
 sandbox/
+
+bot_old.py
